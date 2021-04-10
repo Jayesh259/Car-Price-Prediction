@@ -10,6 +10,7 @@ cycler==0.10.0
 decorator==5.0.6
 defusedxml==0.7.1
 entrypoints==0.3
+Flask==1.0.2
 importlib-metadata==3.10.0
 ipykernel==5.5.3
 ipython==7.22.0
